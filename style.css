@@ -46,7 +46,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url("/Team-X-MERN/images/back106.png") no-repeat;
+    background: url("images/back106.png") no-repeat;
     background-size: cover;
     
     background-attachment: fixed;
